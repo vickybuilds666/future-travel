@@ -2,7 +2,7 @@
 "name": "TripSage - AI Travel",
 "short_name": "TripSage",
   "description": "Search flights, hotels and trains with AI",
-  "start_url": "/nexus-booking/",
+  "start_url": "start_url": "/",
   "display": "standalone",
   "background_color": "#04050a",
   "theme_color": "#4f8bff",
